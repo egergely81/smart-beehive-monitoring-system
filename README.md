@@ -260,3 +260,18 @@ The hardware platform provided a foundation for scalable deployment in commercia
 - Prototype photographs
 - Hardware documentation
 - Design notes
+
+## Prototype
+
+### Assembled Prototype
+
+<img width="2253" height="1824" alt="IMG_20150219_130816~2" src="https://github.com/user-attachments/assets/5ffe41dd-58f6-4121-a0f2-5b8bae49584a" />
+<img width="2295" height="1824" alt="IMG_20150219_192150~2" src="https://github.com/user-attachments/assets/169639d9-8cd0-4ad8-916e-1a1feeda91e0" />
+<img width="2893" height="1327" alt="IMG_20150219_192224~2" src="https://github.com/user-attachments/assets/bbd298b4-ec3a-428e-af70-918d2cdf55c8" />
+<img width="3200" height="1824" alt="IMG_20150219_192241" src="https://github.com/user-attachments/assets/7bcd6f8d-a889-486d-9bf2-ed113ae1b6ef" />
+
+
+
+
+
+Prototype assembled and tested during development.
