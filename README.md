@@ -76,6 +76,8 @@ Each monitored hive contains either a master or a slave unit.
 
 The master unit collects its own local measurements while simultaneously aggregating data received from the connected slave units. The complete dataset is then stored locally on an SD card and periodically transmitted to the central server through the cellular network.
 
+This distributed architecture enables multiple hives to be monitored using a single cellular connection. As a result, deployment and operational costs can be significantly reduced while preserving access to detailed, hive-level monitoring data across the entire apiary.
+
 ---
 
 ## Sensor Suite
