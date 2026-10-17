@@ -32,6 +32,9 @@ The system was designed to:
 
 The solution consists of two hardware variants deployed throughout the apiary.
 
+<img width="805" height="536" alt="image" src="https://github.com/user-attachments/assets/502ec182-4197-455d-882c-c9bb0e098c63" />
+
+
 ### Master Unit
 
 The master unit is installed on a beehive in the same way as the slave units, but serves as the central communication gateway of the system.
@@ -141,6 +144,31 @@ Applications:
 - Deployment tracking
 
 ---
+
+## Hardware Design
+
+The hardware platform was designed around an Arduino Uno-based architecture with dedicated interfaces for sensing, communication, data logging and power management.
+
+### Schematic Overview
+
+<img width="1214" height="869" alt="image" src="https://github.com/user-attachments/assets/81a8a645-664a-43c4-8865-fc3f22c6fa8a" />
+
+
+High-level schematic of the master node showing the GSM, GPS, storage and sensor interfaces.
+
+### PCB Layout
+
+<img width="1306" height="533" alt="image" src="https://github.com/user-attachments/assets/8b55d9f5-def8-405f-8db9-2408a382bdd8" />
+
+
+PCB layout of the master unit.
+
+### 3D PCB Visualization
+
+<img width="1546" height="677" alt="image" src="https://github.com/user-attachments/assets/4520eae8-1425-475b-a023-01e67953110b" />
+
+
+3D rendering used to verify mechanical constraints and component placement.
 
 ## Communications
 
